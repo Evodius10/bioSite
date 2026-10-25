@@ -1,21 +1,8 @@
-# CSD 340 Web Development with HTML and CSS
+# Morgan Wallen bioSite
 
-## Contributors
-- Instructor: Vianelis Martinez
-- Caleb Cano
+Three-page student biography website with shared CSS, navigation, responsive layout, captions, and an external link.
 
-## bioSite: Morgan Wallen
+## GitHub Pages
+Push these files to the root of your `bioSite` repository. Under **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/ (root)`, and save. Your URL will normally be `https://YOUR-USERNAME.github.io/bioSite/`. Replace the placeholder with your username and verify the deployed page.
 
-Student biography project following the October 10, 2026 *Ideas, Sketches, and Inspiration* proposal. Theme: **Roots. Music. Giving back.**
-
-### Pages
-- `index.html` — introduction and three story chapters
-- `about.html` — biography and portrait
-- `hobbies.html` — baseball, violin, and piano
-- `site.css` — shared design system
-- `images/` — seven photographs used throughout the website
-
-### Design system
-Navy `#172B3A`, cream `#F6F1E8`, saddle brown `#805436`, charcoal `#24313A`, and gold `#C89D58`. Georgia headings and Arial body text. Responsive at 700px.
-
-
+Images are original illustrative SVG placeholders; replace with your selected photographs when available. The contact form is a demo only.
